@@ -48,28 +48,6 @@ This project aims to help users estimate the price of used cars using advanced m
 - **Joblib** for model serialization.
 - **Flask** (optional) if you decide to integrate with a full-fledged web application.
 
-## **How to Run the Project**
-
-1. **Clone the Repository**  
-   Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your_username/Car-Dheko.git
-   ```
-
-2. **Install Dependencies**  
-   Navigate to the project directory and install the required packages:
-   ```bash
-   cd Car-Dheko
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Streamlit App**  
-   To launch the app, run the following command:
-   ```bash
-   streamlit run "Price prediction app.py"
-   ```
-
-   This will open the application in your default web browser.
 
 ## **Future Improvements**
 - Add more features for car price prediction like mileage, year of manufacture, etc.
