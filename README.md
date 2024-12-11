@@ -58,8 +58,5 @@ This project aims to help users estimate the price of used cars using advanced m
 
 If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. You can also raise issues for bugs, enhancements, or any feature requests.
 
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
