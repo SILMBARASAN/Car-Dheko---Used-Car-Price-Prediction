@@ -24,7 +24,7 @@ st.markdown("""
     }
     .description {
         text-align: center;
-        color: #FFFFFF;
+        color: black;
         font-size: 18px;
         margin-bottom: 20px;
     }
